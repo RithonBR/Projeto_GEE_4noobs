@@ -268,18 +268,7 @@ Alguns erros comuns que surgem quando esses conceitos não são compreendidos:
 
 Compreender a lógica server-side × client-side e o conceito de lazy evaluation é um **marco fundamental** no aprendizado do Google Earth Engine.
 
----
 
-### Conclusão da aula
-
-Ao final desta aula, o aluno deve entender que:
-
-* O GEE é uma plataforma baseada em computação em nuvem
-* O código descreve operações, não a execução imediata
-* O processamento ocorre majoritariamente no server-side
-* A execução acontece apenas quando solicitada
-
-Esses conceitos serão utilizados em **todos os módulos seguintes do curso**.
 
 ---
 
@@ -366,19 +355,6 @@ Esse ambiente será explorado em detalhes na próxima aula.
 4. Registrar qualquer dúvida ou dificuldade encontrada no processo
 
 ---
-
-### Conclusão da aula
-
-Ao final desta aula, o aluno terá:
-
-* Uma conta ativa no Google Earth Engine
-* Acesso ao Code Editor
-* Condições técnicas para iniciar as aulas práticas do curso
-
-Este passo marca oficialmente o **início da jornada prática no Google Earth Engine**.
-
----
-
 ## Aula 1.5 – Interface do Code Editor
 
 Nesta aula, vamos explorar de forma **visual e prática** a interface do **Google Earth Engine Code Editor**, entendendo a função de cada painel e como eles se integram no fluxo de trabalho. Dominar essa interface é fundamental para programar com eficiência no GEE.
@@ -515,19 +491,6 @@ Entender esse fluxo ajuda o aluno a trabalhar de forma organizada e eficiente.
 
 ---
 
-### Conclusão da aula
-
-Ao final desta aula, o aluno será capaz de:
-
-* Navegar com segurança pelo Code Editor
-* Entender a função de cada painel
-* Interpretar mensagens e erros básicos
-* Preparar-se para escrever seus primeiros scripts completos
-
-Na próxima aula, daremos início à prática com o **primeiro script no Google Earth Engine**.
-
----
-
 ## Aula 1.6 – Primeiro script no Google Earth Engine
 
 Nesta aula, o foco é **100% prático**. O objetivo é executar o primeiro script no Google Earth Engine, entendendo a estrutura básica de um código, a visualização no mapa e a interação com o ambiente.
@@ -646,19 +609,5 @@ Essas ações ajudam a entender como os dados estão sendo representados.
 * **Erro de digitação:** revise nomes e parênteses
 
 Erros fazem parte do processo e ajudam no aprendizado.
-
----
-
-### Conclusão da aula
-
-Este foi o **primeiro contato prático** com o Google Earth Engine.
-
-A partir deste ponto, o aluno já sabe:
-
-* Executar scripts no Code Editor
-* Carregar dados do catálogo do GEE
-* Visualizar informações espaciais no mapa
-
-Nos próximos módulos, avançaremos para o uso de **imagens de satélite, filtros, índices espectrais e análises temporais**.
 
 ---

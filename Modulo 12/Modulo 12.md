@@ -202,13 +202,3 @@ Criar um pipeline que:
 
 ---
 
-## Conclusão do módulo
-
-Ao final deste módulo, o aluno será capaz de:
-
-* usar o GEE fora do Code Editor
-* integrar Python, Colab e GIS
-* criar pipelines escaláveis
-* aplicar GEE em contextos profissionais e corporativos
-
-Este módulo fecha o curso conectando **análise geoespacial, automação e ciência de dados**.

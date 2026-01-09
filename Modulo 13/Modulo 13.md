@@ -140,13 +140,3 @@ A apresentação é parte fundamental do projeto final.
 * Apresentação dos resultados
 
 ---
-
-## Conclusão do curso
-
-Ao concluir o **Módulo 13**, o aluno terá:
-
-* um projeto completo para portfólio
-* experiência prática de ponta a ponta
-* base sólida para atuar profissionalmente com Google Earth Engine
-
-Este projeto finaliza o curso conectando **teoria, prática e aplicação real**, preparando o aluno para desafios acadêmicos e de mercado.
